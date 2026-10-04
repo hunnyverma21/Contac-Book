@@ -1,0 +1,21 @@
+CONTACT BOOK - PROBLEM STATEMENT
+
+Problem:
+Create a simple command-line Contact Book application using Python.
+
+The application should allow users to manage basic contact information through a menu-driven interface.
+
+Requirements:
+1. Add a new contact.
+2. Store the contact's name, phone number, and email.
+3. Display all saved contacts.
+4. Search for a contact by name.
+5. Delete an existing contact.
+6. Provide an option to exit the application.
+7. Display appropriate messages for valid and invalid operations.
+
+Objective:
+The objective of this project is to practice Python fundamentals such as dictionaries, functions, loops, conditional statements, and user input.
+
+Expected Outcome:
+The user should be able to add, view, search, and delete contacts from a simple terminal-based contact book.
